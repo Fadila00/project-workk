@@ -1,0 +1,55 @@
+h1{
+    color: cadetblue;
+   font-weight:bolder;
+     font-family:'caveat',cursive;
+    text-align: center;
+   
+    
+   }
+html{
+    background-color:whitesmoke;
+}
+.main{
+    color: darkcyan;
+    font-size: 10px;
+  
+
+}
+p{
+    color: darkgray;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+footer{
+    background-color:whitesmoke;
+    color: brown;
+
+
+}
+header{
+   width: 700px;
+    min-height: fit-content;
+    background-color:whitesmoke;
+
+
+
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+nav ul {
+    display: inline;
+    margin-right: 10px;
+   
+}
+
+.Agreement{
+    text-justify: newspaper;
+    font-size: 0.5rem;
+    color: aqua;
+
+
+}
